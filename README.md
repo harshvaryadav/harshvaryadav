@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harshvaryadav
+- 👋 Hi, I’m @Harshvardhan Yadav
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning jquery
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to learn more skills
 - 📫 How to reach me ...
 
 <!---
